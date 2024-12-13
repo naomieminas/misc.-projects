@@ -10,6 +10,7 @@ pd.set_option('display.width', 1000)
 pd.set_option('display.max_colwidth', None)
 
 path = kagglehub.dataset_download("bushraqurban/world-education-dataset")
+
 local_csv_path = r"C:\Users\naomi\OneDrive - University of Richmond\CS\misc.-projects\world-education-data.xlsx"
 
 try:
